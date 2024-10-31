@@ -25,3 +25,8 @@ My expertise includes deep learning, reinforcement learning, computer vision, da
   
 - **Mobile Development** ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
 - **Embedded Systems:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Nexys A7](https://img.shields.io/badge/Nexys%20A7-2D6DB1?style=flat&logo=verilog&logoColor=white)
+
+## 💻 LeetCode Profile
+
+- **LeetCode** [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ajay-paul/)
+### **Let's build something amazing together! 🚀**
