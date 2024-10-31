@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Ajay Paul
 
-I'm a machine learning and software development enthusiast with a strong background in AI-based solutions, web applications, and robotics.
-My expertise includes deep learning, reinforcement learning, computer vision, data analytics, and IoT, and I'm passionate about bringing these concepts to life through robust and scalable applications.
+I'm a machine learning and software development enthusiast with a strong background in AI-based solutions, web applications, and robotics. My expertise includes deep learning, reinforcement learning, computer vision, data analytics, and IoT. I have a keen interest in innovation and technology, along with experience in entrepreneurship, which drives my passion for bringing these concepts to life through robust and scalable applications.
 
 ## 🔍 About Me
 - 🎓 Currently exploring advanced ML & AI methodologies.
@@ -30,3 +29,4 @@ My expertise includes deep learning, reinforcement learning, computer vision, da
 
 - **LeetCode** [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ajay-paul/)
 ### **Let's build something amazing together! 🚀**
+
