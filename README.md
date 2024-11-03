@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Ajay Paul
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝐇𝐢+𝐭𝐡𝐞𝐫𝐞!👋+𝐈'𝐦+𝐀𝐣𝐚𝐲+𝐏𝐚𝐮𝐥;𝐋𝐞𝐭'𝐬+𝐂𝐨𝐨𝐤+𝐒𝐨𝐦𝐞+𝐂𝐨𝐝𝐞!!!)](https://git.io/typing-svg)
+
 
 I'm a machine learning and software development enthusiast with a strong background in AI-based solutions, web applications, and robotics. My expertise includes deep learning, reinforcement learning, computer vision, data analytics, and IoT. I have a keen interest in innovation and technology, along with experience in entrepreneurship, which drives my passion for bringing these concepts to life through robust and scalable applications.
 
