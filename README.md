@@ -34,7 +34,7 @@ I'm a machine learning and software development enthusiast with a strong backgro
 
 - **LeetCode** [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ajay-paul/)
 
-### **[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝐑𝐞𝐚𝐝𝐲+𝐭𝐨+𝐜𝐨𝐨𝐤+𝐬𝐨𝐦𝐞+𝐝𝐞𝐥𝐢𝐜𝐢𝐨𝐮𝐬+𝐜𝐨𝐝𝐞?;𝐋𝐞𝐭'𝐬+𝐂𝐨𝐧𝐧𝐞𝐜𝐭!🚀)](https://git.io/typing-svg)**
+### **[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝐋𝐞𝐭'𝐬+𝐂𝐨𝐧𝐧𝐞𝐜𝐭!🚀;𝐋𝐞𝐭'𝐬+𝐂𝐨𝐧𝐧𝐞𝐜𝐭!🚀)](https://git.io/typing-svg)**
 
 
 
