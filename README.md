@@ -31,12 +31,10 @@ I'm a machine learning and software development enthusiast with a strong backgro
 - **Communication Protocols:** ![ICP](https://img.shields.io/badge/ICP-blue?style=flat&logo=chip&logoColor=white) ![I2C](https://img.shields.io/badge/I2C-green?style=flat&logo=server&logoColor=white) ![CANBUS](https://img.shields.io/badge/CANBUS-red?style=flat&logo=protocol&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-blue?style=flat&logo=mqtt&logoColor=white) ![SPI](https://img.shields.io/badge/SPI-blue?style=flat&logo=undefined&logoColor=white)
 
 ## 💻 LeetCode Profile
-
 - **LeetCode** [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ajay-paul/)
 
 
 ## **[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝐋𝐞𝐭'𝐬+𝐂𝐨𝐧𝐧𝐞𝐜𝐭!🚀;𝐋𝐞𝐭'𝐬+𝐂𝐨𝐧𝐧𝐞𝐜𝐭!🚀)](https://git.io/typing-svg)**
-
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajay.arakkal@gmail.com)
 
 
