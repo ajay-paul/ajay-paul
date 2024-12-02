@@ -34,9 +34,10 @@ I'm a machine learning and software development enthusiast with a strong backgro
 
 - **LeetCode** [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ajay-paul/)
 
+
 ### **[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝐋𝐞𝐭'𝐬+𝐂𝐨𝐧𝐧𝐞𝐜𝐭!🚀;𝐋𝐞𝐭'𝐬+𝐂𝐨𝐧𝐧𝐞𝐜𝐭!🚀)](https://git.io/typing-svg)**
 
-
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajay.arakkal@gmail.com)
 
 
 
